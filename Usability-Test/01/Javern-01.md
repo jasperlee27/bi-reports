@@ -1,7 +1,9 @@
-| Javern                 | First Impression  |
-| ---                     |:----              |
+|         |      Javern  |
+| :---:                     |:----              |
+|**1**                    | **First Impression**  |
 |                         | Looks like BPMS chart |
-|                         | **Observation** |
+|                         | |
+|**2**                    | **Observation** |
 | General                 | Usually generating a report on a week's of report |
 | Total Volume Panel      | A week view is very good |
 |                         | Preferred Graph should show 7 days from the date user selected |
@@ -29,9 +31,11 @@
 |                          | Good to add ST1, ST2 values into all the graph |
 |                          | (Alliance - OA, 2M, THE) for weekly view (This week, last week, next week) |
 |                          | Wait time and BOA is equally important, if there is no BOA, wait time needs to be displayed. Wait time can be displayed when hover. |
-|                          | **Closing** |
+|                         | |
+|**3**                      | **Closing** |
 | | Volume view is very important as overview |
-| | Most Like: Less cluttered, less numbers and figures compared to current system.  |
-| | Most Dislike: Position of BOA panel should be at the top.  |
-| | **Question** |
+|Like Most | Less cluttered, less numbers and figures compared to current system.  |
+|Like Least |  Position of BOA panel should be at the top.  |
+|                         | |
+|**4**   | **Question** |
 | | NA |
