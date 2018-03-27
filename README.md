@@ -8,3 +8,5 @@ Engineers: Danial, Si Yuan
   
 ####Purpose####  
 To deliver BI and use repo as tracking tool
+
+Refer to Usability-Test folder for Design team progress 
