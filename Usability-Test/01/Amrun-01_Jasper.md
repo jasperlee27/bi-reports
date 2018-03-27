@@ -4,7 +4,7 @@
 |                         | Noticed the date picker for the total container volume and peak factor on the dashboard. Started to click the date picker. |
 |                         | |
 |**2**                    | **Observation** |
-| General                 | Commented on the peak factor. |
+| General                 | Commended the peak factor. |
 |                         | Noted that should have a total number of vessels+calls e.g 420/week |
 | Total Volume Panel      | Clicked the date picker and played around with dates 19 & 22, unsure of how the date range is generated |
 |                         | Prefer a current date + 6 view. To select business week, just click Monday |
