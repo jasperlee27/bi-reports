@@ -25,9 +25,7 @@
 |                         | Show Lines that contribute to the highest volume |
 | Alliance                | Users know that the numbers are low, planners will have to zoom into that alliance and check for vessels that are not BOA |
 |                         | Good to have waiting time and those vessels that are not BOA shown upon hover to lines |
-|                         |  |
 | Volume Terminal         | Useful for superiors, not for planners. Unless instructed to target at specific terminals/vessels |
-
 | Mega Vessel By Terminal | Mega vessel by terminal is useful for reports |
 |                         | If sees red values, terminals will adjust resources based on demand |
 |                         | Current colours is ok |
@@ -35,7 +33,6 @@
 |                         | 1D view not needed as it can be found in the 7D view also as 7D view table can look for only a day. |
 |                         | Good to have hover with vessel indicating Gross Berth Profit (GBP) beside the vessel list.|
 |                         | Good to have inclusion of marine information like on time pilots. |
-
 |**3**                      | **Closing** |
 | | The order of the panels are rightly prioritised |
 |Like Most | BOA shipping lines, helps with planning  |
